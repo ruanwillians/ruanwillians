@@ -6,3 +6,4 @@ Eu sou o Ruan Willians, um programador Front-end em aprendizado e criando projet
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/ReactJs-1572B6?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReactJs-2E8B57?style=for-the-badge&logo=react&logoColor=white"/>
