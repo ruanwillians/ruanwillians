@@ -12,7 +12,4 @@ Eu sou o Ruan Willians, um programador Front-end, criando projetos com:<br>✅ H
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ruanwillians&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanwillians&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
