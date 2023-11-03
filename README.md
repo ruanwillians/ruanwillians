@@ -1,5 +1,5 @@
 # 💫 About Me:
-Eu sou o Ruan Willians, um programador Front-end, criando projetos com:<br>✅ HTML<br>✅ CSS<br>✅ JavaScript<br>✅Vue.Js e React<br>✅Python<br>✅Node.JS <br>✅ Mongo DB<br>✅ SQL<br>✅DynamoDB
+Eu sou o Ruan Willians, um desenvolvedor Front-end, criando projetos com:<br>✅ HTML<br>✅ CSS<br>✅ JavaScript<br>✅Vue.Js e React<br>✅Next.js<br>✅Python<br>✅Node.JS <br>✅ Mongo DB<br>✅ SQL<br>✅DynamoDB
 
 
 ## 🌐 Socials:
