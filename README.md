@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ruan Willians</h1>
 <h3 align="center">Front-end developer in Qyon Sistemas Inteligentes</h3>
 
-- 🔭 I’m currently working on **Vue.Js and React**
+- 🔭 I’m currently working on **Vue.Js, React and Next.js**
 
-- 🌱 I'm currently studying **Node.JS, Nest.js, Next.js, Docker and Aws**
+- 🌱 I'm currently studying **Node.JS, Nest.js, Python, Docker and Aws**
 
 - 💬 Ask me about **the javascript ecosystems and their frameworks**
 
