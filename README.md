@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruan Willians</h1>
-<h3 align="center">Front-end developer in Qyon Sistemas Inteligentes</h3>
+<h3 align="center">Fullstack developer in Qyon Sistemas Inteligentes</h3>
 
 - 🔭 I’m currently working on **Vue.Js, React, Java, and Python**
 
@@ -7,6 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/ruanwillians/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
