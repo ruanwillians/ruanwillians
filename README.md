@@ -5,8 +5,6 @@
 
 - 🌱 I am currently studying **software architecture and design and also cloud in the AWS ecosystem**
 
-- 💬 Ask me about **the javascript ecosystems and their frameworks**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
